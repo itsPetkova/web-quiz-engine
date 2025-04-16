@@ -19,7 +19,7 @@ The project is designed to provide basic functionality for creating, solving, an
 - **Spring Security**
 - **Spring Data JPA**
 - **H2 Database**
-- **Maven**
+- **Gradle**
 - **ModelMapper**
 
 ---
