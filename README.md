@@ -4,7 +4,7 @@ This is a small backend engine for a Web Quiz Site, developed as part of a [Hype
 
 The project is designed to provide basic functionality for creating, solving, and managing quizzes, while also demonstrating key backend principles such as:
 
-- ✅ Full CRUD operations on quizzes  
+- ✅ CRUD operations on quizzes  
 - 🔐 Basic user authentication and endpoint-level security  
 - 🧩 Role-based access and authorization logic  
 - 🗃️ Persistent storage using H2 in-memory database  
@@ -26,7 +26,7 @@ The project is designed to provide basic functionality for creating, solving, an
 
 ## 📦 Features
 
-- Create, solve, update, and delete quizzes
+- Create, solve, and delete quizzes
 - View completed quiz attempts per user
 - Secure endpoints based on user roles
 - Simple user registration and login system
